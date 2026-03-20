@@ -29,3 +29,5 @@ The tool is completely driven by your `settings.json` file. Here is an example c
         "auto-remove": "firststring,secondstring"
     }
 }
+
+![String Cleaner Showcase](https://github.com/Aaxenn/String-Cleaner/blob/main/showcase.png "String Cleaner Showcase")
