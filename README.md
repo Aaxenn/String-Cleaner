@@ -1,7 +1,7 @@
 # String Cleaner [BETA]
 
 [![Version](https://img.shields.io/badge/Version-Beta_1.0-blue.svg)]()
-[![Status](https://img.shields.io/badge/Status-In_Development-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-BETA-orange.svg)]()
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA.svg)](https://discord.gg/4KBUY5tF3r)
 
 **String Cleaner** is an advanced, currently unreleased tool designed to seamlessly remove memory strings from active processes. It effectively bypasses intrusive PC checks and screenshare (SS) scans.
